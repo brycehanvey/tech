@@ -1,4 +1,4 @@
-<p align="center">Create a database called test in mysql on localhost with username root and password blank then execute migration using artisan migrate from cmd line after doing git clone from repository</p>
+<p align="center">Create a database called test in mysql on localhost with username root and password blank then execute migration using artisan migrate from cmd line after doing git clone from repository. https://jslint.com used to check javascript and php -l for php builtin linter.</p>
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
